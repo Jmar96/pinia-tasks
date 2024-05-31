@@ -1,4 +1,5 @@
 # pinia-tasks
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+Learning Pinia Vue JS 
+>>>>>>> 57ed81d2693a1d4221f0fdfd741822af2b92f2f9
